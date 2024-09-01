@@ -1,0 +1,211 @@
+{	
+	"desc": "Оберіть одну з опцій нижче:",
+	"children": [
+		{
+			"button_name": "🏫Освітній процес",
+			"desc": "desc1",
+			"children": [
+				{
+					"button_name": "button11",
+					"desc": "desc2",
+					"children": [
+						{
+							"button_name": "button111",
+							"desc": "desc3",
+							"children": [
+								{
+									"button_name": "button1111",
+									"desc": "blablabla1111"
+								},
+								{
+									"button_name": "button1112",
+									"desc": "blablabla1112"
+								}
+							]
+						},
+						{
+							"button_name": "button112",
+							"desc": "blablabla112"
+						}
+					]
+				}
+			]
+		},
+		{
+			"button_name": "🎨Позаурочна діяльність",
+			"desc": "🎨Позаурочна діяльність"
+		},
+		{
+			"button_name": "💡Підвищення кваліфікації",
+			"desc": "💡Підвищення кваліфікації",
+			"children": [
+				{
+					"button_name": "Положення",
+					"desc": "Положення"
+				},
+				{
+					"button_name": "ЦПРПП",
+					"desc": "ЦПРПП"
+				},
+				{
+					"button_name": "ІППО",
+					"desc": "ІППО"
+				},
+				{
+					"button_name": "Інші ресурси ПК",
+					"desc": "Інші ресурси ПК"
+				},
+				{
+					"button_name": "Вчитель року",
+					"desc": "Вчитель року"
+				},
+				{
+					"button_name": "🏅Сертифікація",
+					"desc": "('Наказ [МОН](https://osvita.ua/legislation/Ser_osv/91137/)')"
+				},
+				{
+					"button_name": "Маршрут професійного розвитку педагога",
+					"desc": "Маршрут професійного розвитку педагога"
+				}
+			]
+		},
+		{
+			"button_name": "Контакти",
+			"desc": "Контаки"
+		},
+		{
+			"button_name": "Проєктна діяльність",
+			"desc": "Проєктна діяльність"
+		},
+		{
+			"button_name": "🗂️Учнівська документація",
+			"desc": "🗂️Учнівська документація",
+			"children": [
+				{
+					"button_name": "🗃️Особова справа (зразок)",
+					"desc": "('https://docs.google.com/document/d/1Zsj6vH-vG18eQhyvfwsmH3EbQoB7pc69ZyfCoeJE-A0/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "📑Табель (зразок)",
+					"desc": "('https://docs.google.com/document/d/18nP0iWG-5ovWa9EBgtpsh5e_9KKwNC0gX2C6z7OaaLA/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "Соціальний паспорт (зразок)",
+					"desc": "Соціальний паспорт (зразок)"
+				},
+				{
+					"button_name": "Свідоцтво досягнень учнів",
+					"desc": "Свідоцтво досягнень учнів"
+				},
+				{
+					"button_name": "📋Характеристика",
+					"desc": "('https://docs.google.com/document/d/1ed8Zo00Jz8Khkc6PBFIL5ZpZHmMHPUC9DkaXiOTZqhs/edit?usp=sharing/')"
+				}
+			]
+		},
+		{
+			"button_name": "🔍Звіти",
+			"desc": "🔍Звіти",
+			"children": [
+				{
+					"button_name": "📈Звіт",
+					"desc": "('https://docs.google.com/document/d/1lGpFpwq7mdilrUkbBriySwPRezugtqne0EV-hhDZdH4/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "📊Аналіз",
+					"desc": "('https://docs.google.com/document/d/1N7lBkBQ4U2QBjujvC4vbA4zyuiphKGPRw158DfPZccU/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "Навчальні досягнення учнів",
+					"desc": "Навчальні досягнення учнів"
+				},
+				{
+					"button_name": "Вчителя-предметника",
+					"desc": "Вчителя-предметника"
+				}
+			]
+		},
+		{
+			"button_name": "Психологична служба",
+			"desc": "Психологична служба"
+		},
+		{
+			"button_name": "📝Заяви",
+			"desc": "📝Заяви",
+			"children": [
+				{
+					"button_name": "📌Доручення",
+					"desc": "('https://docs.google.com/document/d/1ptR4x2GWApSMO_4GapmI1FgVI2len45V0BINdj_olog/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "🖋️Розписка",
+					"desc": "('https://docs.google.com/document/d/1FtfMGr7ZmtTsE8StHRbpQzgjP9w0x8UA57tczxXFeQ8/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "✍️До 10-го класу",
+					"desc": "('https://docs.google.com/document/d/1SDYp6TIkFzno_owMQS_AyD2Td7WT6Jzl2_FukKPR6zw/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "✅Довідка зі школи",
+					"desc": "('https://docs.google.com/document/d/1z5iQLuGsY5VVspe5YdVexTIpmoLnmS0AD1XMdYymap0/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "🏖️Поділ основної відпустки",
+					"desc": "('https://docs.google.com/document/d/159GB6Kr71kE3kzDpWwj5j5gkPTbN-897VnCquU6bf6o/edit?usp=sharing/')"
+				},
+				{
+					"button_name": "Відпустка",
+					"desc": "Відпустка"
+				},
+				{
+					"button_name": "Звільнення",
+					"desc": "Звільнення"
+				},
+				{
+					"button_name": "Сумісництво",
+					"desc": "Сумісництво"
+				},
+				{
+					"button_name": "Прийняття на роботу",
+					"desc": "Прийняття на роботу"
+				},
+				{
+					"button_name": "Відпустка власним коштом",
+					"desc": "Відпустка власним коштом"
+				}
+			]
+		},
+		{
+			"button_name": "Бібліотека",
+			"desc": "Бібліотека",
+			"children": [
+				{
+					"button_name": "Підручники та методички",
+					"desc": "Підручники та методички",
+					"children": [
+						{
+							"button_name": "Підручники",
+							"desc": "Підручники"
+						},
+						{
+							"button_name": "Додаткова література",
+							"desc": "Додаткова література"
+						}
+					]
+				},
+				{
+					"button_name": "Кіно",
+					"desc": "Кіно"
+				},
+				{
+					"button_name": "Художня література",
+					"desc": "Художня література"
+				},
+				{
+					"button_name": "Онлайн подорожі",
+					"desc": "Онлайн подорожі"
+				}
+			]
+		}
+	]
+}
